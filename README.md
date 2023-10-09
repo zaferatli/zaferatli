@@ -3,6 +3,8 @@
 
 ## My Github Stats
 - https://www.npmjs.com/package/@zaferatli/ra [CLI Tool for create some Redux event automatically]
+- https://github.com/zaferatli?tab=repositories [For Youtube React Native Testing Examples]
+- https://github.com/Mayzor-Teknoloji/Redux-Basic-Example [For Youtube Redux Basic Examples]
 
 ## My Github Stats
 <p align="center">
