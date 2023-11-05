@@ -8,7 +8,5 @@
 - https://github.com/Mayzor-Teknoloji/Redux-Basic-Example [For Youtube Redux Basic Examples]
 
 ## My Github Stats
-<p align="center">
-  <img src="https://github.com/zaferatli/zaferatli/assets/54990817/92fc11f7-d00e-4299-bd9e-5b1f9d3c8615" alt="Sublime's custom image"/>
-</p>
-  
+
+  ![Zafer ATLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaferatli&show_icons=true&theme=dark)
