@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zafer</h1>
-<h3 align="center">A software engineer @Rise Consulting</h3>
+<h3 align="center">A software engineer</h3>
 
 ## My Repositories
 - https://www.npmjs.com/package/@zaferatli/ra [CLI Tool for create some Redux event automatically]
